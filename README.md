@@ -1,2 +1,3 @@
-# Excel
-An extension for AI2 and its derivatives
+## Excel
+
+An App Inventor 2 extension created using Rush.
