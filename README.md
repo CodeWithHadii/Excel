@@ -75,7 +75,3 @@ Triggered after clearing the sheet. `status` will indicate success or failure.
 ## Error Handling
 
 The extension provides event callbacks to notify users about success or failure. You can use these events to handle any exceptions or errors.
-
----
-
-This `README.md` provides a concise overview of the extension's features and usage, perfect for integration into your App Inventor projects!
